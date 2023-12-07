@@ -26,7 +26,6 @@ The list below stacks the most recently created folder at the top
 
 ### Problem Statement <a name="prob"></a>
 
->**tldr**: *Inconvenient for dorm residents to physically check if shared washing machine is available to use.*
 ```
 Ketersediaan lahan parkir yang terbatas di lingkungan kampus menjadi tantangan utama bagi mahasiswa, staf, dan pengunjung.
 Situasi ini menyebabkan ketidaknyamanan dan kesulitan saat mencari tempat parkir yang memadai, terutama pada jam-jam sibuk.
