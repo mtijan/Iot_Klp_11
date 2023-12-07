@@ -59,8 +59,6 @@ Solusi yang kami tawarkan berupas sebuah sistem IoT yang dapat mendeteksi kendar
 
 ![Use case diagram](https://github.com/mtijan/Iot_Klp_11/blob/main/Use%20Case%20Diagram.drawio.png)
 
-**Tentative features**
-- booking slots for using the washing machine
 
 <br/>
 
